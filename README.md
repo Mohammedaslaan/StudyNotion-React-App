@@ -1,5 +1,6 @@
 # StudyNotion-React-App
-this is a react website which generate random and specific gifs for user. for getting the gifs API of 'giphy.com' are used. 
+StudyNotion is the tempate for a website which has Login Page, Signup Page, Home Page and DashBoard Page. <br/>
+You are feel free to modify Home Page and DashBoard Page for your personal project and professional project.
 
 # Live Link :- https://mohammedaslaan.github.io/StudyNotion-React-App/
 
